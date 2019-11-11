@@ -8,6 +8,7 @@ Integrantes do grupo:
 ----------------------------------------------------------------------------------------------------
 Compilação:
 Para compilar é necessário utilizar-se do comando make no terminal
+*Obs: os arquivos .log estao na pasta chamada arquivos (colocar arquivos de entrada neste diretorio)
 
 Execucao:
 ./executavel politica_de_substituicao arquivo.log tamanho_de_pagina  tamanho_da_memoria
